@@ -250,16 +250,15 @@ Agriculture-Data-Analysis/
 │   └── Page 3 - Agriculture Business Insights
 │
 └── README.md
-
 ---
-
+```
 # 8. Project Outcome
 
 This project demonstrates a complete end-to-end Data Analytics workflow, starting with data preparation and analysis in Excel, followed by SQL-based business analysis in MySQL, and finally presenting the results through an interactive Power BI dashboard.
 
 The project combines technical skills with business-oriented analytical thinking to transform agricultural data into meaningful insights related to production, area, yield, crop performance, seasonal patterns, and state-level performance.
 
-Author
+## Author
 Deepak
 
 Data Analytics Portfolio Project
