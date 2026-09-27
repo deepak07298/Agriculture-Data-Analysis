@@ -251,6 +251,8 @@ Agriculture-Data-Analysis/
 │
 └── README.md
 
+---
+
 # 8. Project Outcome
 
 This project demonstrates an end-to-end Data Analytics workflow, starting from data preparation in Excel, moving through SQL-based business analysis, and finally presenting the results through an interactive Power BI dashboard.
